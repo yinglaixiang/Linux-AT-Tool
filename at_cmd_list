@@ -1,0 +1,15 @@
+获取ICCID#AT+ICCID
+获取IMEI#AT+CGSN=1
+获取IMSI#AT+CIMI
+获取卡插入状态#AT+CPIN?
+获取信号强度#AT+CSQ
+获取注册运营商信息#AT+COPS?
+获取注网状态#AT+CGREG?
+获取信号连接状态#AT+CSCON?
+获取固件信息#AT+CGMR
+获取版本型号#ATI
+获取厂家信息#AT+CGMR
+获取AT列表#AT+CLAC
+
+
+
